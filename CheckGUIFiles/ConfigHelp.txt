@@ -1,0 +1,7 @@
+Usage: Enter the file paths of your Printer and Runaway 
+Check Scripts in their respective boxes and hit the 'Apply' button.    
+                                                                                                                           When your printer script is called, this application sends a numeric argument depending on your selections. 
+('1' for EB Printer Check, '2' for FAB Printer Check. If a 
+specific printer is being tested, two arguments are sent: a 
+numeric '3' followed by a string, the printer name  specified. For proper functioning, ensure that your script is able to handle these arguments and respond appropriately.    
+                                                                                                   When your runaway check script is called, no arguments are  sent to the script. Simply ensure that script output is sent to standard out.  

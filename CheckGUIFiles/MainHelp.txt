@@ -1,0 +1,2 @@
+Usage: Click one of the displayed buttons to execute a 
+Printer Check or a Runaway check.                                                                                                Selecting 'Printer Check' will open a new window for additional input.                                                                                        Selecting 'Runaway Check' will cause the script to run Immediately and output results into a new window. Application written by William Hopper (whopper) on  11/24/2011 for the CAT.                               
