@@ -142,7 +142,7 @@ public class BasicGui{
       
   // get help path (point to file)
   public String getHelpPath(){
-		String helpFile = new String("C:\\Users\\Billy\\Desktop\\Java\\GUIFiles\\MainHelp.txt"); // windows home path
+		String helpFile = new String("C:\\Users\\Will\\Desktop\\Java\\GUIFiles\\MainHelp.txt"); // windows home path
 		//String helpFile = new String("/u/whopper/work/Programs/GUIFILES/MainHelp.txt"); // PSU linux path
 		//String helpFile = new String("/home/whopper/CAT/CheckGUIFiles/MainHelp.txt"); // home box path
 
